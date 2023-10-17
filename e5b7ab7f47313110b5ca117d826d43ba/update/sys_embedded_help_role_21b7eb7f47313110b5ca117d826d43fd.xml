@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_842639_service_0.user" name="x_842639_service_0.user">a1b7ab7f47313110b5ca117d826d43c5</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 16:35:59</sys_created_on>
+        <sys_id>21b7eb7f47313110b5ca117d826d43fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a1b7ab7f47313110b5ca117d826d43c5</sys_name>
+        <sys_package display_value="ServiceNow Automated Deployment Catalog" source="x_842639_service_0">e5b7ab7f47313110b5ca117d826d43ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow Automated Deployment Catalog">e5b7ab7f47313110b5ca117d826d43ba</sys_scope>
+        <sys_update_name>sys_embedded_help_role_21b7eb7f47313110b5ca117d826d43fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-17 16:35:59</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
